@@ -1,0 +1,51 @@
+1	Rhode Island	>=60	1	22	43
+2	Connecticut	>=60	2	8	18
+3	Maryland	>=60	3	18	2
+4	New York	>=60	4	40	5
+5	Washington	>=60	5	9	14
+6	Massachusetts	>=60	9	10	3
+7	New Jersey	>=60	6	28	24
+8	Minnesota	55 - 60	17	1	4
+9	Vermont	55 - 60	7	7	44
+10	District of Columbia	55 - 60	8	33	26
+11	New Hampshire	50 - 55	12	5	25
+12	Ohio	50 - 55	11	34	23
+13	Wisconsin	50 - 55	13	12	27
+14	New Mexico	50 - 55	10	46	38
+15	Utah	50 - 55	24	4	15
+16	South Dakota	45 - 50	20	20	30
+17	Illinois	45 - 50	19	17	39
+18	Delaware	45 - 50	28	11	12
+19	Alaska	45 - 50	14	15	49
+20	North Dakota	45 - 50	27	3	31
+21	Pennsylvania	45 - 50	22	25	33
+22	Louisiana	45 - 50	16	44	36
+23	California	45 - 50	18	32	40
+24	Virginia	45 - 50	30	13	11
+25	Arkansas	45 - 50	23	49	13
+26	Montana	45 - 50	15	23	50
+27	Michigan	45 - 50	31	29	10
+28	Oregon	45 - 50	21	27	46
+29	Arizona	40 - 45	32	43	6
+30	North Carolina	40 - 45	29	39	16
+31	Alabama	40 - 45	35	50	1
+31	West Virginia	40 - 45	25	48	20
+33	Maine	40 - 45	26	26	42
+34	Iowa	40 - 45	38	6	9
+35	Colorado	40 - 45	37	2	41
+36	Nebraska	40 - 45	43	14	8
+37	Florida	35 - 40	33	41	45
+38	Idaho	35 - 40	40	16	37
+39	Georgia	35 - 40	46	30	7
+40	Kentucky	35 - 40	39	45	32
+41	South Carolina	35 - 40	42	36	22
+42	Indiana	35 - 40	45	24	21
+43	Tennessee	35 - 40	41	42	35
+44	Kansas	35 - 40	50	19	17
+45	Hawaii	35 - 40	36	35	47
+46	Missouri	35 - 40	47	38	29
+47	Oklahoma	35 - 40	44	47	34
+48	Nevada	30 - 35	34	37	51
+49	Texas	30 - 35	51	31	19
+50	Mississippi	30 - 35	48	51	28
+51	Wyoming	30 - 35	49	21	48
