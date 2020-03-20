@@ -11,7 +11,6 @@ We generated a network of all US states Covid-19 community transmission data, us
 
 ### Results
 The network and tree shows that the states - Massachusetts, New  Jersey, Colorado, Illinois, Georgia, Florida and Louisiana are following the trend of New York, Washington and California. Of these 7 states, Georgia and Florida are rated as below average for their preparedness against coronavirus.
-
 <img src="images/covid-19-us-current-up-trend.svg" width="100%" height="100%">
 
 ### Data
