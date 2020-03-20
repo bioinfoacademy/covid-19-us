@@ -34,7 +34,7 @@ The network and tree shows that the states - Massachusetts, New  Jersey, Colorad
 
 ### References
 1. Dynamic Time Warp - http://dtw.r-forge.r-project.org/
-2. RCy3 - https://github.com/cytoscape/RCy3 @AlexanderPico
+2. RCy3 - https://github.com/cytoscape/RCy3
 3. Cytoscape - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/
 
 
