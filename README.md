@@ -13,10 +13,10 @@ We generated a network of all US states Covid-19 community transmission data, us
 ### Data
 ### Method
 ### Sources
-[Most Aggressive States Against the Coronavirus](https://wallethub.com/edu/most-aggressive-states-against-coronavirus/72307/)
-[CDC]
-[CNN]
-[JHU]
+- [Most Aggressive States Against the Coronavirus](https://wallethub.com/edu/most-aggressive-states-against-coronavirus/72307/)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
+- [CNN](https://www.cnn.com/2020/03/03/health/us-coronavirus-cases-state-by-state/index.html)
+- [JHU](https://github.com/CSSEGISandData/COVID-19)
 ### References
 
 
