@@ -1,0 +1,51 @@
+#https://www.worldatlas.com/articles/states-that-have-voted-democrat-in-the-most-consecutive-u-s-presidential-elections.html march, 2019
+#https://www.worldatlas.com/articles/which-states-are-swing-states.html
+#https://www.worldatlas.com/articles/states-that-have-voted-republican-in-the-most-consecutive-u-s-presidential-elections.html
+Hawaii	blue
+Massachusetts	blue
+New York	blue
+Oregon	blue
+Rhode Island	blue
+Washington	blue
+Minnesota	blue
+California	blue
+Connecticut	blue
+Illinois	blue
+Maine	blue
+Maryland	blue
+Michigan	blue
+New Jersey	blue
+Vermont	blue
+Washingon, DC	blue
+Alabama	red
+Alaska	red
+Arizona	red
+Arkansas	red
+Georgia	red
+Idaho	red
+Kansas	red
+Kentucky	red
+Louisiana	red
+Mississippi	red
+Missouri	red
+Montana	red
+Nebraska	red
+North Dakora	red
+Oklahoma	red
+South Carolina	red
+South Dakota	red
+Tennessee	red
+Texas	red
+Utah	red
+West Virginia	red
+Wyoming	red
+Colorado	swing
+Florida	swing
+Iowa	swing
+Ohio	swing
+Nevada	swing
+New Hampshire	swing
+North Carolina	swing
+Pennsylvania	swing
+Virginia	swing
+Wisconsin	swing
