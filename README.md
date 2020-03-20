@@ -10,7 +10,7 @@ We generated a network of all US states Covid-19 community transmission data, us
 <img src="images/covid-19-us-current-dtw-tree.svg" width="100%" height="100%">
 
 ### Results
-The network and tree shows that the states - Massachusetts, New  Jersey, Colorado, Illinois, Georgia, Florida and Louisiana are following the trend of New York, Washington and California. Of these 7 states, Georgia and Florida are rated as below average for their preparedness against coronavirus.
+The network and tree shows that the states - Massachusetts, New  Jersey, Colorado, Illinois, Georgia, Florida and Louisiana are following the trend of New York, Washington and California, in terms of the Covid-19 confirmed cases. Of these 7 states, Georgia and Florida are rated as below average for their preparedness against coronavirus.
 <img src="images/covid-19-us-current-up-trend.svg" width="100%" height="100%">
 
 ### Data
@@ -19,6 +19,12 @@ The network and tree shows that the states - Massachusetts, New  Jersey, Colorad
 - [Most Aggressive States Against the Coronavirus TSV data](data/covid-state-aggressive-wallethub-march17.txt)
 
 ### Method
+- For dates until March 10, 2020, the US State-by-state Covid-19 confirmed cases data was obtained from the last available CNN report
+- For dates from March 10 to March 17, 2020, the US State-by-state Covid-19 confirmed cases data was extracted from JHU data
+- For dates from March 18 2020, the US State-by-state Covid-19 confirmed cases data is extracted from CDC
+- The similarity among the states transmission time series data was calculated using the DTW method in R
+- The similarity tree was generated in R using hclust 
+- The similarity network was generated in R using igraph/RCy3 and analyzed/visualized using Cytoscape
 
 ### Sources
 - [Most Aggressive States Against the Coronavirus](https://wallethub.com/edu/most-aggressive-states-against-coronavirus/72307/)
@@ -27,7 +33,9 @@ The network and tree shows that the states - Massachusetts, New  Jersey, Colorad
 - [JHU](https://github.com/CSSEGISandData/COVID-19)
 
 ### References
-
+1. Dynamic Time Warp - http://dtw.r-forge.r-project.org/
+2. RCy3 - https://github.com/cytoscape/RCy3 @AlexanderPico
+3. Cytoscape - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/
 
 
 
