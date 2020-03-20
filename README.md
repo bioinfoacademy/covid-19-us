@@ -14,9 +14,9 @@ The network and tree shows that the states - Massachusetts, New  Jersey, Colorad
 <img src="images/covid-19-us-current-up-trend.svg" width="100%" height="100%">
 
 ### Data
-- [Covid-19 US State-by-State Curated Data](data/covid-state-aggressive-wallethub-march17.txt)
-- [Covid-19 US Transmission Similarity Network Session](data/covid-cytoscape-current.sys)
-- [Most Aggressive States Against the Coronavirus data](data/covid-state-aggressive-wallethub-march17.txt)
+- [Covid-19 US State-by-State Curated CSV Data](data/time_series_19-covid-Confirmed-us-current.csv)
+- [Covid-19 US Transmission Similarity Network - Cytoscape Session File](data/covid-cytoscape-current.sys)
+- [Most Aggressive States Against the Coronavirus TSV data](data/covid-state-aggressive-wallethub-march17.txt)
 
 ### Method
 
