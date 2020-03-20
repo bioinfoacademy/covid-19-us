@@ -8,5 +8,9 @@ Method:
 Sources:
 References:
 
+covid-19-us-current-dtw.svg
+![Alt text](images/covid-19-us-current-dtw.svg)
+<img src="images/covid-19-us-current-dtw.svg">
+
 [Testlink](https://jekyllrb.com/)
 
