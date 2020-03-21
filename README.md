@@ -28,6 +28,7 @@ The network and tree shows that the states - Massachusetts, New  Jersey, Colorad
 - For dates until March 10, 2020, the US State-by-state Covid-19 confirmed cases data was obtained from the last available CNN report
 - For dates from March 10 to March 17, 2020, the US State-by-state Covid-19 confirmed cases data was extracted from JHU data
 - For dates from March 18 2020, the US State-by-state Covid-19 confirmed cases data is extracted from CDC
+- For dates after March 20, 2020, weekend case numbers are obtained from the last available CNN report
 - The similarity among the states transmission time series data was calculated using the DTW method in R
 - The similarity tree was generated in R using hclust 
 - The similarity network was generated in R using igraph/RCy3 and analyzed/visualized using Cytoscape
