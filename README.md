@@ -1,6 +1,6 @@
 ## Covid-19 community transmission similarity network
 
-# <font color="red">Texas, Tennessee and Pennsylvania just joined the trend with states heading higher with confirmed covid-19 cases. Updated results below. Per preparedness, Texas is at the low end of the scale, please share this update with anyone you know in Texas and plead them to listen to the advice given in TV by Dr. Fauci and other scientists, so that we could save lives</font>
+# <font color="red">Texas got out, but still close to big trends</font>
 
 ### Summary
 We generated a network of all US states Covid-19 community transmission data, using DTW as the measure of similarity. We also overlayed the "Most Aggressive States Against the Coronavirus" data on to this network. The results could potentially guide states towards planning for slowing down or avoiding huge covid-19 community transmission.
