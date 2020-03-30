@@ -1,6 +1,6 @@
 ## Covid-19 community transmission similarity network
 
-# <font color="red">Status QUO. Tennessee is out of the trend now. Please ask everyone in Tennessee to listen to the doctors advice, so we can keep Tennessee out of the trend and save some lives</font>
+# <font color="red">Status QUO maintains in our covid19 similarity network, for the third consecutive day. Please share this info with anyone you know and plead them to keep listening to the advice Dr. Fauci is giving in TV.</font>
 
 ### Summary
 We generated a network of all US states Covid-19 community transmission data, using DTW as the measure of similarity. We also overlayed the "Most Aggressive States Against the Coronavirus" data on to this network. The results could potentially guide states towards planning for slowing down or avoiding huge covid-19 community transmission.
