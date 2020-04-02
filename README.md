@@ -1,7 +1,5 @@
 ## Covid-19 community transmission similarity network
 
-# CDC daily US data has not yet been updated for March 31, 2020. We will provide the update, as soon as this number is available from CDD
-
 # <font color="red">Status QUO maintains in our covid19 similarity network, for the third consecutive day. Please share this info with anyone you know and plead them to keep listening to the advice Dr. Fauci is giving in TV.</font>
 
 ### Summary
