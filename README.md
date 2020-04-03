@@ -1,18 +1,18 @@
 ## Covid-19 community transmission similarity network
 
-# <font color="red">Status QUO maintains in our covid19 similarity network, for the third consecutive day. Please share this info with anyone you know and plead them to keep listening to the advice Dr. Fauci is giving in TV.</font>
+# <font color="red">Major update: Washington is out of the trend, at least for now. Please share this info with anyone you know and plead them to keep listening to the advice Dr. Fauci is giving in TV. Washington is proving that their measures are working. Lets follow their lead. Per CDC counts today, Washington (5683) has more reported cases than Georgia (5486) and Texas (4669), but it just got out of the trend, away from New York/New Jersey</font>
 
 ### Summary
 We generated a network of all US states Covid-19 community transmission data, using DTW as the measure of similarity. We also overlayed the "Most Aggressive States Against the Coronavirus" data on to this network. The results could potentially guide states towards planning for slowing down or avoiding huge covid-19 community transmission.
 
 #### Network - Overlaid with aggressively prepared states info
-<img src="images/covid-19-us-current-dtw-network-aggressive.svg" width="100%" height="100%">
+<img src="images/covid-19-us-current-dtw-network-aggressive-meta.svg" width="100%" height="100%">
 
 #### Network - Overlaid with red/blue state info
-<img src="images/covid-19-us-current-dtw-network-red-blue.svg" width="100%" height="100%">
+<img src="images/covid-19-us-current-dtw-network-red-blue-meta.svg" width="100%" height="100%">
 
 #### Tree
-<img src="images/covid-19-us-current-dtw-tree.svg" width="100%" height="100%">
+<img src="images/covid-19-us-current-dtw-tree-meta.svg" width="100%" height="100%">
 
 ### Results
 The network and tree shows that the states - Massachusetts, New  Jersey, Colorado, Illinois, Georgia, Florida and Louisiana are following the trend of New York, Washington and California, in terms of the Covid-19 confirmed cases. Of these 7 states, Georgia and Florida are rated as below average for their preparedness against coronavirus.
