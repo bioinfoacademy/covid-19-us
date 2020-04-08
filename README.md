@@ -1,6 +1,6 @@
 ## Covid-19 community transmission similarity network
 
-# <font color="red">Major update: Washington is out of the trend, at least for now. Please share this info with anyone you know and plead them to keep listening to the advice Dr. Fauci is giving in TV. Washington is proving that their measures are working. Lets follow their lead. Per CDC counts today, Washington (5683) has more reported cases than Georgia (5486) and Texas (4669), but it just got out of the trend, away from New York/New Jersey</font>
+# <font color="red">UPDATE 4/7: Texas on the way to go past Washington. Washington Reported its first case around Jan 22. Texas reported its first cases around March 5th, about 43 days later. Now, Texas per CDC report today, is at 7276 to Washingtons 7318. Texas is also tightly connected to Washington in our trend similarity network. At this rate, unless Texas takes dramatic containment measures, we predict Texas to go past Washington by this week. (Updated network results below). Please share this info with anyone you know in Texas and plead them to keep listening to the advice Dr. Fauci is giving in TV. Washington is proving that their measures are working. Lets follow their lead. </font>
 
 ### Summary
 We generated a network of all US states Covid-19 community transmission data, using DTW as the measure of similarity. We also overlayed the "Most Aggressive States Against the Coronavirus" data on to this network. The results could potentially guide states towards planning for slowing down or avoiding huge covid-19 community transmission.
